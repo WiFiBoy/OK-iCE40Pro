@@ -1,0 +1,23 @@
+set_io D1 40
+set_io D2 41
+set_io D3 18
+set_io D4 19
+set_io D5 20
+set_io TXD 9
+set_io RXD 6
+set_io pclk 35
+set_io resetq 21
+set_io PIOS_00 15
+set_io PIOS_01 17
+set_io PIOS_02 14
+set_io PIOS_03 16
+
+set_io PIO1_02 42
+set_io PIO1_03 43
+set_io PIO1_04 44
+set_io PIO1_05 45
+set_io PIO1_06 46
+set_io PIO1_07 47
+set_io PIO1_08 48
+set_io PIO1_09 2
+set_io PIO1_10 3

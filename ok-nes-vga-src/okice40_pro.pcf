@@ -1,0 +1,26 @@
+# OK:iCE40 Pro PCF
+
+set_io clk_12       35
+set_io led_r        41
+set_io led_b        40
+set_io VGA_HS       2
+set_io VGA_VS       48
+set_io VGA_B[0]     47
+set_io VGA_B[1]     46
+set_io VGA_G[0]     45
+set_io VGA_G[1]     44
+set_io VGA_R[0]     43
+set_io VGA_R[1]     42
+set_io speaker      10
+set_io flash_sck    15
+set_io flash_csn    16
+set_io flash_mosi   14
+set_io flash_miso   17
+set_io btnA         19
+set_io btnB         18
+set_io btnM         20
+set_io btnU         38
+set_io btnD         34
+set_io btnL         32
+set_io btnR         36
+

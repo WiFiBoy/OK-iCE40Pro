@@ -1,0 +1,33 @@
+set_io clk12 35
+
+set_io rx 6
+set_io tx 9
+
+set_io spi0_mosi 14
+set_io spi0_miso 17
+set_io spi0_sclk 15
+set_io spi0_cs0 16
+
+set_io spi1_mosi 25
+set_io spi1_miso 11
+set_io spi1_sclk 23
+set_io spi1_cs0 21
+
+set_io lcd_nrst 27
+set_io lcd_dc 26
+
+set_io key_a 19
+set_io key_b 18
+set_io key_m 20
+set_io key_u 38
+set_io key_d 34
+set_io key_l 32
+set_io key_r 36
+
+set_io spkr 10
+
+set_io lcd_bl 39
+set_io led_b 40
+set_io led_r 41
+
+
